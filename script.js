@@ -76,4 +76,6 @@ function writePassword() {
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
+//# Worked with Peter Lillis on this code but I changed the css where I added background image,
+//changed header/card background color and added footer. 
 

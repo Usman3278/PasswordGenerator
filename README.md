@@ -22,3 +22,4 @@ JS
 This code was made it in JavaScript to create random password with number, special character, lowercase and uppercase result.
 
 # Screenshots are uploaded into Assests Folder. 
+# Worked with Peter Lillis on this code but I changed the css where I added background image, changed header/card background color and added footer. 
